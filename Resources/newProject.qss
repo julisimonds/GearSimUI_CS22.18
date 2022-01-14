@@ -1,0 +1,3 @@
+QListView#AircraftsView{
+	background-color: gray;
+}
